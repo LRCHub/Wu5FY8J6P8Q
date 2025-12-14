@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Love wins all",
+  "base_artist": "아이유",
+  "createdAt": "2025-12-14T16:02:21.197250Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love wins all",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_Love_wins_all_IU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love wins all (Love wins all)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/02_Love_wins_all_(Love_wins_all)_IU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love wins all",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_Love_wins_all_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love wins all",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/04_Love_wins_all_IU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Wins All",
+      "artist": "Ysabelle Cuevas & Shaun Barrowes",
+      "has_synced": false,
+      "path": "select/05_Love_Wins_All_Ysabelle_Cuevas_&_Shaun_Barrowes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Wins All - IU (English Cover) | ysabelle",
+      "artist": "Ysabelle",
+      "has_synced": false,
+      "path": "select/06_Love_Wins_All_-_IU_(English_Cover)___ysabelle_Ysabelle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Wins All - IU (English Cover) | ysabelle",
+      "artist": "Ysabelle Cuevas",
+      "has_synced": false,
+      "path": "select/07_Love_Wins_All_-_IU_(English_Cover)___ysabelle_Ysabelle_Cuevas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love wins all",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/08_Love_wins_all_IU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Wins All",
+      "artist": "IUE",
+      "has_synced": true,
+      "path": "select/09_Love_Wins_All_IUE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love wins all",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/10_Love_wins_all_IU.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love wins all - IU (English Cover) by Chevy",
+      "artist": "Chevy",
+      "has_synced": false,
+      "path": "select/11_Love_wins_all_-_IU_(English_Cover)_by_Chevy_Chevy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Wins All",
+      "artist": "Iu",
+      "has_synced": true,
+      "path": "select/12_Love_Wins_All_Iu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Wins All",
+      "artist": "The Righteous Brothers",
+      "has_synced": true,
+      "path": "select/13_Love_Wins_All_The_Righteous_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Wins All",
+      "artist": "Ysabelle Cuevas",
+      "has_synced": false,
+      "path": "select/14_Love_Wins_All_Ysabelle_Cuevas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love wins all",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Love_wins_all_IU.txt"
+    }
+  ]
+}
